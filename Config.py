@@ -218,15 +218,3 @@ FIRE_FUEL_INPUTS = {
 
 }
 
-SIMULATION_RANDOM_SEED = 708691376
-
-INITIAL_INFECTED_NODES_OVERRIDE = [
-    (146,
-     15),
-    (147,
-     15),
-    (146,
-     16),
-    (147,
-     16),
-]
